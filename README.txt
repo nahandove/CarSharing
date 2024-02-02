@@ -178,6 +178,4 @@ indicating that the customer is currently in possession of the car and that the 
 ID is unavailable for rental. Once the customer returns the car, the RENTED_CAR_ID is reset
 to null and the car will show up again among the company's list of available car.
 
-Sample databases are included in this repository.
-
 January 31th, 2024--description by E. Hsu (nahandove@gmail.com)
