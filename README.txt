@@ -76,7 +76,8 @@ return to the main manager view.
 The user enters customer view by selecting 2 from the main menu. The first screen shows a 
 list of customer name ordered by id, or the error message "the customers list is empty!" if
 there is currently no customer in the database. The user can also select 0 to return to the
-main menu. The user logs in by selecting the id, and is presented with the customer menu screen, as shown below:
+main menu. The user logs in by selecting the id, and is presented with the customer menu 
+screen, as shown below:
 
 1. Rent a car
 2. Return a rented car
@@ -108,7 +109,8 @@ Choose a car:
 
 The user presses a number to rent a car or 0 to return to the customer menu screen. If the
 user selects a car, they become the owner of the car, and the car will not be shown to any
-other customers in company listings. The user will be informed of their rental: "You rented {car name}", where {car name} is the brand of the car getting rented, then returned to the
+other customers in company listings. The user will be informed of their rental: "You rented
+{car name}", where {car name} is the brand of the car getting rented, then returned to the
 customer menu screen. Note that only one car can be rented per customer.
 
 B. Returning a rented car
